@@ -1,0 +1,6 @@
+{
+  "name": "Offline AI Receptionist",
+  "description": "Offline AI Receptionist with Call Screening Service, local call detection history, VIP contacts CRM, and zero-network privacy sandbox.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
